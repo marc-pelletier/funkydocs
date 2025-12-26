@@ -8,7 +8,7 @@ Science currently lacks depth in research variance, with minimal interaction inv
 
 ## Features to be added
 
-Genetics revolves around four key pieces of equipment: the DNA Scanner, DNA Scanner Console, DNA Injectors, and Handheld Genetic Analyzer. Mutations are prototype-based, and include many unofficial categories such as speech accents, quirks/disabilities, beneficial, harmful, and instability punishments.
+Genetics revolves around four key pieces of equipment: the Medical Scanner, Geneticist's Console, DNA Injectors, and the Handheld Genetic Analyzer. Mutations are prototype-based, and include many unofficial categories such as speech accents, quirks/disabilities, beneficial, harmful, and instability punishments.
 
 ### Core Mechanics
 - **Round-Unique DNA Sequences**: At round start, each mutation prototype is assigned a unique block and 32-base sequence (A-T/G-C pairs). Sequences never repeat.
